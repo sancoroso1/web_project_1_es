@@ -306,7 +306,7 @@
   color: white;
 }
 .footer__column_content_social{
-  
+  display: block;
 }
 .footer__social-icons{
   width: 16px;
