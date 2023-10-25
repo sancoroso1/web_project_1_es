@@ -410,7 +410,7 @@
   position: relative;
 }
 
-.section-title__theme_dark {
+.section-title_theme_dark {
   width: 60%;
   padding-top: 90px;
   text-align: center;
@@ -418,13 +418,13 @@
   z-index: 1;
 }
 
-.section-subtitle__theme_dark {
+.section-subtitle_theme_dark {
   width: 60%;
   color: white;
   z-index: 1;
 }
 
-.table__theme_dark {
+.table_theme_dark {
   z-index: 1;
 }
 
