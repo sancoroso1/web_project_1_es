@@ -391,6 +391,8 @@
   font-size: 30px;
   font-weight: normal;
   margin-left: 48px;
+  text-decoration: none;
+  color: #2F80ED;
   transition: opacity 0.2s ease;
 }
 
