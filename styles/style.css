@@ -470,6 +470,11 @@
 .resources__logo {
   width: 270px;
   height: 38px;
+  transition: opacity 0.2s ease;
+}
+
+.resources__logo:hover {
+  opacity: 0.5;
 }
 
 .footer {
@@ -534,6 +539,11 @@
   font-weight: normal;
   text-decoration: none;
   color: white;
+  transition: opacity 0.2s ease;
+}
+
+.footer__column-link:hover {
+  opacity: 0.5;
 }
 
 .footer__column_content_social {
