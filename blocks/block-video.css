@@ -1,0 +1,16 @@
+.video {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(white 420px, #F2F2F2 60px);
+}
+
+.video__iframes {
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.video__iframe {
+  margin: 0px 20px;
+}

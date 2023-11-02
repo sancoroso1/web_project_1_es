@@ -1,0 +1,40 @@
+.description {
+  display: flex;
+  padding: 100px 0px;
+  justify-content: center;
+}
+
+.two-columns {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
+
+.two-columns__brief {
+  display: flex;
+  width: 175px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  color: #2F80ED;
+  margin: 0;
+}
+
+.two-columns__main-text {
+  display: flex;
+  width: 80%;
+  flex-direction: column;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  gap: 30px;
+}
+
+.two-columns__paragraph {
+  min-width: 784px;
+  margin: 0;
+}
+
+.two-columns__span-accent {
+  font-weight: bold;
+}

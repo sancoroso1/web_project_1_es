@@ -1,0 +1,54 @@
+.kaufman {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 90px;
+  padding-left: auto;
+  padding-right: auto;
+  background-color: #1F1F1F;
+  overflow: hidden;
+  position: relative;
+}
+
+.section-title_theme_dark {
+  width: 60%;
+  padding-top: 90px;
+  text-align: center;
+  color: white;
+  z-index: 1;
+}
+
+.section-subtitle_theme_dark {
+  width: 60%;
+  color: white;
+  z-index: 1;
+}
+
+.table_theme_dark {
+  z-index: 1;
+}
+
+.table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
+}
+
+.table__heading_theme_dark {
+  color: white;
+}
+
+.table__text_theme_dark {
+  color: white;
+  padding: 0;
+}
+
+.kaufman__triangle {
+  position: absolute;
+  right: -124px;
+}
+
+.kaufman .kaufman__triangle{
+  animation: rotation 20s linear infinite;
+}
